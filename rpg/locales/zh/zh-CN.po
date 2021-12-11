@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hibiki-cogs\n"
+"POT-Creation-Date: 2021-12-09 00:46+0000\n"
+"PO-Revision-Date: 2021-12-09 03:26\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 3.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: hibiki-cogs\n"
+"X-Crowdin-Project-ID: 489117\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/rpg/locales/messages.pot\n"
+"X-Crowdin-File-ID: 39\n"
+"Language: zh_CN\n"
+
+#: /home/ubuntu/cogs/rpg/rpg.py:26
+#, docstring
+msgid "Explore dungeons, join clans, make friends and have lots of fun!"
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:67
+#, docstring
+msgid "View your or another member's stats."
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:77
+#, docstring
+msgid "Manage your character."
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:84
+#, docstring
+msgid "Create a character."
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:94
+#, docstring
+msgid "\n"
+"        Delete your character.\n\n"
+"        **NOTE: THIS ACTION IS IRREVERSIBLE**\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:106
+#, docstring
+msgid "\n"
+"        Manage the rpg cog.\n\n"
+"        This command is only available to bot developers.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:115
+#, docstring
+msgid "\n"
+"        Manage a user's characters.\n\n"
+"        This command is only available to bot developers.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:124
+#, docstring
+msgid "\n"
+"        Update a user's stats.\n\n"
+"        This command is only available to bot developers.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:138
+#, docstring
+msgid "\n"
+"        Guild management commands.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:151
+#, docstring
+msgid "\n"
+"        Create a guild.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:160
+#, docstring
+msgid "\n"
+"        Delete your guild.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:170
+#, docstring
+msgid "\n"
+"        Set the guild's name.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:180
+#, docstring
+msgid "\n"
+"        Set the guild's motto.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:190
+#, docstring
+msgid "\n"
+"        Set the guild's description.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:202
+#, docstring
+msgid "\n"
+"        Set the guild's icon.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:212
+#, docstring
+msgid "\n"
+"        Set the guild's banner.\n"
+"        "
+msgstr ""
+
+#: /home/ubuntu/cogs/rpg/rpg.py:222
+#, docstring
+msgid "\n"
+"        Set the guild's tax rate.\n"
+"        "
+msgstr ""
+
