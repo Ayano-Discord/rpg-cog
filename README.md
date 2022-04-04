@@ -1,4 +1,4 @@
-# Hibiki's cogs
+# Hibiki's rpg cog!
 
 ## NOTE:
 
